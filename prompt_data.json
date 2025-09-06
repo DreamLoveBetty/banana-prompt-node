@@ -1,0 +1,92 @@
+{
+  "1": {
+    "image": "image_data/1.png",
+    "prompt": "turn this photo into a character figure. Behind it, place a box with the character’s image printed on it, and a computer showing the Blender modeling process on its screen. In front of the box, add a round plastic base with the character figure standing on it. set the scene indoors if possible",
+    "placeholders": [],
+    "Favorite": "false",
+    "title": "图片变手办",
+    "describe": "上传一张图片"
+  },
+  "2": {
+    "image": "image_data/2.png",
+    "prompt": "画面采用中景近乎半身的构图，镜头与人物几乎平视，但透视感强烈，但因为主体微微前倾，视觉上产生一种略带俯视感的压缩效果，让观者与模特之间的距离显得亲密而直接。人物微微抬头冲向镜头，有种拽姐的感觉。闪光灯从正面偏左上方打来，制造出硬朗的高光与深重阴影——墨镜镜片上有明显高光反射，人物后方墙面出现淡淡的投影，整体呈现典型的“直闪”质感：颗粒感轻微，可见胶片风格或高感光度数码拍摄的粗粝纹理。人物面部稍稍有点过度曝光\n\n色彩基调以低饱和的中性色为主：黑色的宽肩丝绒西装外套占据画面最大面积，面料似乎是丝绒，带有细腻的绒面纹路；内搭的黑色丝绸吊带。模特下装是黑色超短裙和薄透质感的连裤袜。背景左侧堆放的墨绿色与咖色棒球帽、右侧叠放的亮蓝色夹克及黑色头盔等杂物，在柔和阴影中提供了点缀色，同时强调了拍摄的后台或休息室氛围。\n\n人物动作及神态具有强烈的街头时尚感：她双膝交叠坐在台面边缘，双手随意撑在身侧，身体前倾，给人一种随性却掌控全场的姿态。面部表情淡漠而自信——厚涂的裸色哑光唇膏、挺拔的鼻梁和高光额头在镜片下仍然清晰；宽大的方形黑色太阳镜遮住了双眼，却因为镜框外缘锋利的斜切角度，进一步强化了“冷面”气场。发型为高束的高马尾，碎发自然散落，在硬光照射下呈现金棕色高光，增加了几分随意的性感。\n\n整体观感是一幅带有九十年代街拍影像感的时装速写：粗颗粒、直闪、低饱和配色与夸张的廓形外套共同营造出怀旧却前卫的潮流态度。右下角带有相机时间戳：2001 05 14",
+    "placeholders": [],
+    "Favorite": "false",
+    "title": "超写实照片生成",
+    "describe": "上传一张图片"
+  },
+  "3": {
+    "image": "image_data/3.png",
+    "prompt": "convert this photo into a architecture model. Behind the model, there should be a cardboard box with an image of the architecture from the photo on it. There should also be a computer, with the content on the computer screen showing the Blender modeling process of the figurine. In front of the cardboard box, place a cardstock and put the architecture model from the photo I provided on it. I hope the PVC material can be clearly presented. It would be even better if the background is indoors.",
+    "placeholders": [],
+    "Favorite": "false",
+    "title": "建筑图转模型",
+    "describe": "上传一张图片"
+  },
+  "4": {
+    "image": "image_data/4.png",
+    "prompt": "图一人物背上图二 logo 的[XXX]",
+    "placeholders": [
+      "XXX"
+    ],
+    "Favorite": "false",
+    "title": "物体组合",
+    "describe": "上传两张图片"
+  },
+  "5": {
+    "image": "image_data/5.png",
+    "prompt": "Enhance this image to high resolution",
+    "placeholders": [],
+    "Favorite": "false",
+    "title": "高清修复",
+    "describe": "上传一张图片"
+  },
+  "6": {
+    "image": "image_data/6.png",
+    "prompt": "把它们组合起来",
+    "placeholders": [],
+    "Favorite": "false",
+    "title": " 多图组合",
+    "describe": "上传多张图片"
+  },
+  "7": {
+    "image": "image_data/7.png",
+    "prompt": "Separate the person inside the green box and turn it into a high-definition single-person photo",
+    "placeholders": [],
+    "Favorite": "false",
+    "title": "分离指定人物重生成",
+    "describe": "上传一张图片[图片内用红框选出待分离人物]"
+  },
+  "8": {
+    "image": "image_data/78c1711d-b694-42a4-ac6c-38e11179effb.png",
+    "prompt": "将图一转为手绘线稿图，准确使用图二色卡为线稿人物上色",
+    "placeholders": [],
+    "Favorite": "true",
+    "title": "线稿 + 色卡上色",
+    "describe": "上传两张图片，一张人物，一张色卡"
+  },
+  "9": {
+    "image": "image_data/7ddcb159-84ea-495e-a476-747706913f4b.png",
+    "prompt": "Generate a highly detailed photo of a girl cosplaying this illustration, at Comiket. Exactly replicate the same pose, body posture, hand gestures, facial expression, and camera framing as in the original illustration. Keep the same angle, perspective, and composition, without any deviation",
+    "placeholders": [],
+    "Favorite": "false",
+    "title": "动漫转真人",
+    "describe": "上传一张动漫图"
+  },
+  "10": {
+    "image": "image_data/a665d277-721e-42f3-9d3b-fde50ffcf57a.png",
+    "prompt": "图一人物换成图二姿势，专业摄影棚拍摄",
+    "placeholders": [],
+    "Favorite": "true",
+    "title": "指定人物 + 高质量姿势参考",
+    "describe": "上传一张人物图加一张姿势图"
+  },
+  "11": {
+    "image": "image_data/20250906175723_57346_1.png",
+    "prompt": "根据插画中的成年角色制作一个高度逼真的 1/7 比例商业化手办，确保外观和内容安全、健康、无任何不适当元素。以细致、逼真风格和环境进行渲染，将手办置于超逼真的手办展示柜内的搁板上，安装在无文字的圆形透明亚克力底座上。在纹理、材质和涂装上保持高度精确的细节，以增强真实感。展示柜场景应具有自然的景深效果，前景与背景之间平滑过渡，营造逼真的摄影质感。光线应呈现自然状态并自适应场景，根据整体构图自动调整，而非固定于特定方向，以模拟真实商业摄影的光质与反射效果。展示柜内其他搁板上的不同手办应因焦点外的虚化效果而略微模糊，从而增强空间真实感与纵深感。",
+    "placeholders": [],
+    "Favorite": "false",
+    "title": "制作商业化手办",
+    "describe": "上传一张原图"
+  }
+}
