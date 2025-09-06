@@ -1,19 +1,15 @@
 # 🍌 Banana Prompt Node
 
-一个独立的ComfyUI自定义节点，用于选择和管理提示词模板。
+一个ComfyUI自定义节点，用于选择和管理提示词模板。
 
-## 功能特点
+##参考：ComfyUI Local Media Manager
+# https://github.com/Firetheft/ComfyUI_Local_Image_Gallery.git
 
-- 🖼️ **卡片式图片展示**: 瀑布流布局，自适应容器尺寸
-- ⭐ **收藏排序**: 支持标记收藏，收藏的提示词优先显示
-- ❤️ **一键收藏**: 点击卡片右上角爱心图标即可收藏/取消收藏
-- ➕ **快速添加**: 点击"+"卡片即可添加新的提示词模板
-- 🏷️ **自定义标题**: 为每个提示词设置易读的标题
-- 📋 **使用描述**: 显示使用指导，帮助用户了解如何使用
-- 📝 **提示词管理**: 从JSON文件管理提示词数据
-- 🔧 **占位符替换**: 支持 `[XXX]` 格式的占位符，动态生成输入框
-- 🎯 **独立运行**: 完全独立于原Local Image Gallery项目
-- 💾 **状态保存**: 自动保存选择状态和占位符内容
+##所有示例提示图片来自ZHO
+# https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation.git
+
+感谢分享~~
+
 
 ## 项目结构
 
